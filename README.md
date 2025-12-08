@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Valter Bercelli
+
+**Função:** Desenvolvedor de aplicações DekTop, Infraestrutura, Web, APIs, Sistemas e Automação  
+**Stack:** HTML(5), CSS(3), JS, Node.js, TypeScript, React, MySQL, Oracle, SqlServer, PostgreSQL, DB2
+
+- **Portfólio:** https://valterbercelli.github.io
+- **GitHub...:** https://github.com/valterbercelli
+- **Contato..:** bercelli@bercelli.com.br
+- **Site.....:** www.bercelli.com.br
+
+## Projetos em destaque (Serão adicionados em breve)
+- **Projeto X:** descrição breve, objetivo e valor.
+  - **Tecnologias:** …
+  - **Código:** link
+  - **Demo:** link
