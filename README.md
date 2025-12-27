@@ -1,7 +1,7 @@
 # ✨ Valter Bercelli
 
 👨‍💻 **Arquiteto/Analista de Sistemas**  
-Com **51 anos de experiência no Mercado de TIC**, especialista em T.I.C., focado em *peopleware e tecnologias*.
+Com **52 anos de experiência no Mercado de TIC**, especialista em T.I.C., focado em *peopleware e tecnologias*.
 
 🎓 **Formação Acadêmica**
 - Especialização em Administração da Tecnologia da Informação pela **Universidade do Oeste Paulista (2013)**
